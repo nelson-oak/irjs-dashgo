@@ -6,6 +6,10 @@ Dashboard desenvolvido com Chakra UI no bootcamp Ignite, Trilha React JS
 
 | Número | Funcionalidade |
 | - | - |
+| 1 | Autenticação do usuário |
+| 2 | Listagem de usuários |
+| 3 | Cadastro de usuários |
+| 4 | Exibição de gráficos |
 
 ## Recursos
 
